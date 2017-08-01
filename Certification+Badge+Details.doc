@@ -1,0 +1,2816 @@
+Message-ID: <1202404026.22154.1501550709092.JavaMail.confluence@avalara-confluence-C>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_22153_525957432.1501550709091"
+
+------=_Part_22153_525957432.1501550709091
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Certification Badge Details</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Certification Badge Details</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<h2 id=3D"CertificationBadgeDetails-QuickNavigation">Quick Navigation</h2>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 94.=
+6794%;">
+<colgroup>
+<col style=3D"width: 47.0418%;">
+<col style=3D"width: 52.9582%;">
+</colgroup>
+<tbody>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"/display/PC/Certificati=
+on+Badge+Details">Certified for Sales Tax</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-UseTax">Certified for Use Tax</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"#CertificationBadgeDetails-Refunds">C=
+ertified for Refunds/Credit Memos</a></td>
+<td class=3D"confluenceTd"><a href=3D"#CertificationBadgeDetails-Lodging">C=
+ertified for Lodging</a></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-VAT">Certified for VAT</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-Comms">Certified for Comms</a></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><a href=3D"#CertificationBadgeD=
+etails-GST">Certified for GST</a></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-CertCapture">Certified for Document Management</a></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><a href=3D"#CertificationBadgeD=
+etails-Brazil">Certified for Brazil</a></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-AddressValidation">Certified for Address Validation</a></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-LC">Certified for Landed Cost</a></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"#CertificationBadgeDeta=
+ils-POS">Certified for POS</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><iframe class=3D"youtube-player" type=3D"text/html" style=3D"width: 400p=
+x; height: 300px" src=3D"//www.youtube.com/embed/VqomZQMZQCQ?wmode=3Dopaque=
+" frameborder=3D"0"> </iframe> </p>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p>Suggested elements will be used to populate a functionality matrix for f=
+eatures that are not required for baseline badge certification. Example: Su=
+pport for line level addressing.</p>
+<p><br></p>
+<p>Internal Connector SUPER FUNCTIONALITY MATRIX<br><a href=3D"/download/at=
+tachments/249794650/Copy%20of%20Connectors-FeatureMatrix-03302017.xlsx?vers=
+ion=3D1&amp;modificationDate=3D1492777301342&amp;api=3Dv2" data-linked-reso=
+urce-id=3D"250175394" data-linked-resource-version=3D"1" data-linked-resour=
+ce-type=3D"attachment" data-linked-resource-default-alias=3D"Copy of Connec=
+tors-FeatureMatrix-03302017.xlsx" data-nice-type=3D"Excel Spreadsheet" data=
+-linked-resource-content-type=3D"application/vnd.openxmlformats-officedocum=
+ent.spreadsheetml.sheet" data-linked-resource-container-id=3D"249794650" da=
+ta-linked-resource-container-version=3D"46">Copy of Connectors-FeatureMatri=
+x-03302017.xlsx</a></p>
+<h2 id=3D"CertificationBadgeDetails-SalesTaxCertifiedforSalesTax(Core)"><sp=
+an class=3D"confluence-embedded-file-wrapper confluence-embedded-manual-siz=
+e"><img class=3D"confluence-embedded-image confluence-thumbnail" width=3D"2=
+5" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/att=
+achments/249794650/badge.jpg?version=3D1&amp;modificationDate=3D14921626225=
+08&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-i=
+d=3D"249794724" data-linked-resource-version=3D"1" data-linked-resource-typ=
+e=3D"attachment" data-linked-resource-default-alias=3D"badge.jpg" data-base=
+-url=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"imag=
+e/jpeg" data-linked-resource-container-id=3D"249794650" data-linked-resourc=
+e-container-version=3D"46" height=3D"25"></span><span class=3D"confluence-a=
+nchor-link" id=3D"CertificationBadgeDetails-SalesTax"></span>Certified for =
+Sales Tax (Core)</h2>
+<h3 id=3D"CertificationBadgeDetails-AvaTaxAdministration&amp;Utilities">Ava=
+Tax Administration &amp; Utilities&nbsp;</h3>
+<blockquote>
+<p><strong>Use Case / User Story:</strong></p>
+<p>As a user, I will navigate to a single location within the application a=
+nd be able to:</p>
+<ul>
+<li>Input AvaTax credentials</li>
+<li>Identify whether or not I am connecting to the Production/Sandbox insta=
+nce of AvaTax</li>
+<li>Validate my credentials</li>
+<li>Select the Company Code for this integration</li>
+<li>Enable/Disable the AvaTax functionality</li>
+<li>Enable/Disable recording documents to AvaTax</li>
+<li>Enable/Disable logging for AvaTax request/responses.</li>
+</ul>
+</blockquote>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">AvaTax Configuration Window</td>
+<td class=3D"confluenceTd">The AvaTax Configuration Dialog window must allo=
+w the user to specify the&nbsp;configuration/connection information.
+<ul>
+<li>Account Number</li>
+<li>License Key</li>
+<li>Service URL</li>
+<li><span style=3D"color: rgb(153,204,0);">Company Code Lookup</span></li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ideal configuration workflow:</=
+p>
+<ul>
+<li>User Enters authentication information</li>
+<li>User will test connection to validate credentials
+<ul>
+<li>As part of this validation, integration will lookup company codes on us=
+ers AvaTax account and provide a drop-down selection of available company c=
+odes.</li>
+</ul></li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">AvaTax Test Connect Button</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Tests the connection to the Ava=
+Tax service and verifies the AvaTax credentials. This is an important eleme=
+nt to allow for successful troubleshooting of the AvaTax service.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Not required to have a dedicated b=
+utton. However, the validation function must be incorporated into the AvaTa=
+x configuration workflow.</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Control - Disable Document Committ=
+ing</td>
+<td colspan=3D"1" class=3D"confluenceTd">In order for this connector to be =
+used in conjunction with other integration to AvaTax, the user must be able=
+ to control which connector is used for committing documents to AvaTax. Fro=
+m a technical standpoint, simply use DocType =3D SalesOrder on all calls an=
+d suppress any non-getTax calls (i.e. cancelTax, postTax).</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>No applicable for ERP solutions.</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Disable Tax Calculation Option</td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><p>The&nbsp;user must have an opti=
+on to turn on or off the AvaTax Calculation service independent of any othe=
+r Avalara product or service.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Example, disable tax calculation b=
+ut keep address validation active.</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Enable logging</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Enables detailed AvaTax transac=
+tion logging within the application including capture of round-trip process=
+ing time.We need the complete request/response for each call made to Avalar=
+a services. It does not need to run all the time as we understand the datab=
+ase will grow unnecessarily large =E2=80=93 you are free to only log the la=
+st week, 30 days, custom, or have a control for the next N hours, etc. The =
+spirit of the requirement is to assist customers and support in troubleshoo=
+ting exercises, so it needs to be retrievable by an end user (or an adminis=
+trator) It should be specifically Avalara service calls.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Request time out definition</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Define AvaTax request time out length, AvaTax best practic=
+es prescribes default setting of 300 ms.</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Conditional</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Display Prices with Tax Included</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Enable the tax inclusive flag in the GetTax Request</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Required in conjunction with Global certification</td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Enable AvaTax UPC</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>&nbsp;When set to true: pass in UPC code into the Avalara =
+ItemCode on the line level of the requests to our service. When UPC is unav=
+ailable, default to ItemCode.When set to false: use the default ItemCode ma=
+pping.See Product Master Management for more details.NOTE: Alternately, UPC=
+ can be enabled on the item level.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-CustomerRecordIntegration">Customer Rec=
+ord Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Customer Code</td>
+<td class=3D"confluenceTd"><p>Identify&nbsp;customer code (number, ID) to p=
+ass to the AvaTax service.</p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Suggested</td>
+<td class=3D"confluenceTd">Exemption Number</td>
+<td class=3D"confluenceTd"><p>Customer&nbsp;record field populating exempti=
+on number in an AvaTax transaction. This is used for tracking those custome=
+rs who have tax exempt transactions.</p></td>
+<td class=3D"confluenceTd">Revisit - Should we remove from checlist althoge=
+ther.</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Entity/Use Code</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>This is a group of codes that i=
+ndicate the type of exemption.&nbsp; See&nbsp;<a class=3D"external-link" hr=
+ef=3D"http://developer.avalara.com/avatax/handling-tax-exempt-customers?ref=
+errer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&amp;sessionId=3D149218661=
+5755" rel=3D"nofollow">the standard codes</a>, but be aware that users are =
+able to create custom codes as well.It is best to&nbsp;<strong>manage this =
+value in your application=E2=80=99s Customer&nbsp;record</strong>&nbsp;and =
+pass it to AvaTax as CustomerUsageType at either the document or line level=
+, whichever is applicable. Note that either Exemption Number or Entity/Use =
+code is required (not both).&nbsp;<strong>Entity/Use Code is&nbsp;preferred=
+.</strong></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Line Level Exemptions</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Ability to identify individual items on a transaction as exem=
+pt from Tax.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Line Level Exemption Override</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Ability to identify individual items on a transaction as Taxa=
+ble to an otherwise exempt customer. Functionally, you will need to pass th=
+e value "Taxable" in the CustomerUsageType field at the line level.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Ship-To Address exemption</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Ability to individually identify customer, ship-to locations =
+as Exempt. Separate from the customers default address.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-Items/ChargeIntegration">Items/Charge I=
+ntegration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Item Code</td>
+<td class=3D"confluenceTd"><p>Identify&nbsp;customer code (number, ID) to p=
+ass to the AvaTax service.</p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Item Description</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Identify item/service/charge de=
+scription to pass to the AvaTax service with a human-readable description o=
+r item name.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">AvaTax Tax Code mapping - Item Cod=
+e/SKU</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Association&nbsp;of an item or =
+item group to an AvaTax Tax Code to describe the taxability (e.g. Clothing-=
+Shirts =E2=80=93 B-to-C).</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Tax Code Mapping Group</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Association of a GROUP of items to an AvaTax Tax Code to desc=
+ribe the taxability of the group.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Pass UPC</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><span style=3D"color: rgb(0,51,102);">See note in Administrat=
+ion/Utilities Integration section.If the user elects to use AvaTax UPC, Ens=
+ure that the appropriate field containing UPC data is mapped to the ItemCod=
+e parameter&nbsp;formatted as: &lt;UPC:&gt;+&lt;UPC Data&gt;. Example: =E2=
+=80=9CUPC:1234567890000=E2=80=9D. by formatting the value with =E2=80=9CUPC=
+:=E2=80=9D identifier, our engine can pick up the UPC code, and the user ca=
+n avoid mapping a tax code for that item. If no UPC data is available still=
+ default to the regular ItemCode mapping.</span>
+<ul>
+<li>NOTE:&nbsp; the UPC functionality is a premium upgrade to the Avalara A=
+vaTax subscription providing taxability decision (taxable vs. non-taxable) =
+without requiring an Avalara Tax Code assignment.</li>
+</ul></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">If your application supports the use of UPC , we suggest inco=
+rporating this feature to your AvaTax integration. As this will allow our m=
+utual customer the ability to levarage our automatic product taxability map=
+ping.</td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Additional Tax Type Support</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Support for additional tax type parameters.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey">Suggested?</td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey">Tax Code Lookup</td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey">Pull in and surface Avalara Tax Codes within applicaiton</td>
+<td class=3D"highlight-grey confluenceTd" colspan=3D"1" data-highlight-colo=
+ur=3D"grey"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Non Standard Items</td>
+<td colspan=3D"1" class=3D"confluenceTd">Freight mapping Handling charge, e=
+tc. . . .</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-Sales/BillingDocumentIntegration">Sales=
+/Billing Document Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Send required header level data elements</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Document number</li>
+<li>Customer code</li>
+<li>Document date</li>
+<li>Tax calculation date</li>
+<li>Document type</li>
+<li>Destination address</li>
+<li>Origin address</li>
+<li>Location Code</li>
+<li>Exemption number</li>
+<li>Entity/Use code (aka CustomerUsageType)</li>
+</ul></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Send required line (detail) level =
+data</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li>Line number</li>
+<li>Item code</li>
+<li>Item description</li>
+<li>Quantity</li>
+<li>Amount (extended)</li>
+<li>Tax Code</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Verify Avalara Calculated Tax Amou=
+nt is used in transaction.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Freight items must be transmitted =
+separately</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Freight Items must be sent&nbsp=
+;to AvaTax as a separate line item with a configurable tax code.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>GetTax call =E2=80=93 Sales Ord=
+er/Sales Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ensure&nbsp;that invoices are p=
+rocessed through a logical document lifecycle.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>PostTax/CommitTax&nbsp;call =E2=
+=80=93 Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ensure that invoices are commit=
+ted/posted for reporting appropriately.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Conditional</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>CancelTax&nbsp;call =E2=80=93 v=
+oided/deleted Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>When invoices are deleted/cance=
+lled, this information&nbsp;must be&nbsp;transmitted to AvaTax.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">If function exists in host applica=
+tion, it should be mirrored in the tax service.</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Send discounts appropriately =
+=E2=80=93 standard discounts included in line-level extended amount, manufa=
+cturer=E2=80=99s coupons and hostess credits transmitted as additional line=
+ items.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Send optional header level data elements =E2=80=93 Purchas=
+e order number</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p><br></p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Send optional line (detail) level data elements =E2=80=93 =
+Entity Use Code (aka CustomerUsageType)</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Line level exempt triggers are required if line-level exem=
+ption can be managed in the application, and should be transmitted in a man=
+ner analogous to document-level exemption.</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Send optional line (detail) level data elements =E2=80=93 =
+Destination address</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Required if destination (ship-to) address can be managed a=
+t the item line level.</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Send optional line (detail) level data elements =E2=80=93 =
+Origin address</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Required if origin (ship-from, warehouse) address can be m=
+anaged at the item line&nbsp;level</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Conditional</td>
+<td colspan=3D"1" class=3D"confluenceTd">Send POO</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Conditional</td>
+<td colspan=3D"1" class=3D"confluenceTd">Send POA</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Latitude/Longitude Support</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">If host applicaiton captures GPS coordinates with Addresses; =
+for US addresses, pass the Lat and Long along with Address. This is especia=
+lly useful in situations where a location or service site can only be pinpo=
+inted by geo location.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Conditional</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Send Location Code with Transaction</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">If multiple origin addresses are supported, the corresponding=
+ origin Location Code must be included with the GetTax request.</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">If the application acts as a POS location code will be requir=
+ed.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-ServerAuditClarityandInstallationRequir=
+ements">Server Audit Clarity and Installation Requirements</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd"><p>Pass&nbsp;connector identifier information vi=
+a the TaxSvc.Profile.Client property</p></td>
+<td class=3D"confluenceTd"><p>Integrations&nbsp;must include information ab=
+out the connector, such as name, version, and &nbsp; company name, as a sig=
+nature to each transaction.&nbsp; EXAMPLE: TaxSvc.Profile.Client =3D =E2=80=
+=9CDynamics AX,9.0,MyApp for AX by ACME INC,1.0=E2=80=9D</p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Reasonable&nbsp;errors on serve=
+r-side analysis</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>There&nbsp;should be no errors =
+except those that would result from normal (but invalid)&nbsp;user input (e=
+.g. invalid address data). Such errors must be logged/displayed appropriate=
+ly to the application.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Reasonable ratio of GetTax and =
+address validation calls to committed documents</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>In a normal workflow, we expect=
+ to see (on average, including abandoned carts) up to 10 tax calculations p=
+er finalized document. In a straight-forward order entry process, the numbe=
+r of calls should be about three to five.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Demonstrate and document instal=
+lation of software =E2=80=93 Install Shield or equivalent where&nbsp;applic=
+able</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Customers should have an easy a=
+nd trouble free installation of the software.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h2 id=3D"CertificationBadgeDetails-RefundsCertifiedforRefunds/CreditMemos"=
+><span class=3D"confluence-embedded-file-wrapper confluence-embedded-manual=
+-size"><img class=3D"confluence-embedded-image confluence-thumbnail" width=
+=3D"25" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/downloa=
+d/attachments/249794650/badge.jpg?version=3D1&amp;modificationDate=3D149216=
+2622508&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resou=
+rce-id=3D"249794724" data-linked-resource-version=3D"1" data-linked-resourc=
+e-type=3D"attachment" data-linked-resource-default-alias=3D"badge.jpg" data=
+-base-url=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D=
+"image/jpeg" data-linked-resource-container-id=3D"249794650" data-linked-re=
+source-container-version=3D"46" height=3D"25"></span><span class=3D"conflue=
+nce-anchor-link" id=3D"CertificationBadgeDetails-Refunds"></span>Certified =
+for Refunds/Credit Memos</h2>
+<p>Preresiquite - Certified for Sales Tax</p>
+<h3 id=3D"CertificationBadgeDetails-AdditionalRequirements">Additional Requ=
+irements</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">PostTax/CommitTax call =E2=80=93 Credit Memos</t=
+d>
+<td class=3D"confluenceTd"><p>Ensure that returns are committed/posted for =
+reporting appropriately. More information about&nbsp;<a class=3D"external-l=
+ink" href=3D"http://developer.avalara.com/avatax/handling-return-invoices?r=
+eferrer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&amp;sessionId=3D1492193=
+784937" rel=3D"nofollow">handling returns</a>.</p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Send original invoice date as tax =
+calculation date for return orders/credit memos</td>
+<td colspan=3D"1" class=3D"confluenceTd">More information about&nbsp;<a cla=
+ss=3D"external-link" href=3D"http://developer.avalara.com/avatax/handling-r=
+eturn-invoices?referrer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&amp;ses=
+sionId=3D1492193784937" rel=3D"nofollow">handling returns</a>.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Send current transaction date as d=
+ocument date for return orders/credit memos</td>
+<td colspan=3D"1" class=3D"confluenceTd">More information about&nbsp;<a cla=
+ss=3D"external-link" href=3D"http://developer.avalara.com/avatax/handling-r=
+eturn-invoices?referrer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&amp;ses=
+sionId=3D1492193784937" rel=3D"nofollow">handling returns</a>.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Supports Tax Only adjustments</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Tax Override / Tax Amount</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Process returns using tax override / Tax amount</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"CertificationBadgeDetails-VATCertifiedforVAT"><span class=3D"conf=
+luence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D=
+"confluence-embedded-image confluence-thumbnail" width=3D"25" src=3D"504bc3=
+2aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attachments/2497946=
+50/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508&amp;api=3Dv2"=
+ data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"249794724" =
+data-linked-resource-version=3D"1" data-linked-resource-type=3D"attachment"=
+ data-linked-resource-default-alias=3D"badge.jpg" data-base-url=3D"https://=
+wiki.avalara.com" data-linked-resource-content-type=3D"image/jpeg" data-lin=
+ked-resource-container-id=3D"249794650" data-linked-resource-container-vers=
+ion=3D"46" height=3D"25"></span><span class=3D"confluence-anchor-link" id=
+=3D"CertificationBadgeDetails-VAT"></span>Certified for VAT</h2>
+<p>Preresiquite - Certified for Sales Tax</p>
+<h3 id=3D"CertificationBadgeDetails-AdditionalRequirements-CustomerRecordIn=
+tegration">Additional Requirements - Customer Record Integration</h3>
+<p><em>Capability of VAT is being updated in summer of 2017 - below is subj=
+ect to change.</em>&nbsp;</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Business identirication No.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Also known as VAT Registration =
+ID =E2=80=93 This data element should be found directly on the transaction =
+(sales order, sales invoice) header.&nbsp; Some applications may not carry =
+that&nbsp;information onto the transaction itself, and the connector may ha=
+ve to pull directly from the customer record.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Is Seller Importer of Record</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">EU VAT Simplification Support</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">???</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Global Tax Calc - Handling Place of supply</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-AdditionalRequirement-TransactionProces=
+singIntegration">Additional Requirement &nbsp;- Transaction Processing Inte=
+gration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Business identirication No.</td>
+<td class=3D"confluenceTd"><p>Also known as VAT Registration ID =E2=80=93 T=
+his data element should be found directly on the transaction (sales order, =
+sales invoice) header.&nbsp; Some applications may not carry that&nbsp;info=
+rmation onto the transaction itself, and the connector may have to pull dir=
+ectly from the customer record.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Country Code (2 digit ISO code)</t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd">The country code associated with t=
+he various addresses stored on the transaction must be sent. This informati=
+on should not have to be sourced from the customer record.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Currency Code</td>
+<td colspan=3D"1" class=3D"confluenceTd">Transaction currency code =E2=80=
+=93 AvaTax needs to know the currency the document is transacted in, not th=
+e default currency information.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Ship-to address, including country=
+ code</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Ship-from address, including count=
+ry code</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">Suggested?</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green">EU Invoice Messaging</td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"CertificationBadgeDetails-GSTCertifiedforGST(breakoutGST/PST)"><s=
+pan class=3D"confluence-embedded-file-wrapper confluence-embedded-manual-si=
+ze"><img class=3D"confluence-embedded-image confluence-thumbnail" width=3D"=
+25" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/at=
+tachments/249794650/badge.jpg?version=3D1&amp;modificationDate=3D1492162622=
+508&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-=
+id=3D"249794724" data-linked-resource-version=3D"1" data-linked-resource-ty=
+pe=3D"attachment" data-linked-resource-default-alias=3D"badge.jpg" data-bas=
+e-url=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"ima=
+ge/jpeg" data-linked-resource-container-id=3D"249794650" data-linked-resour=
+ce-container-version=3D"46" height=3D"25"></span><span class=3D"confluence-=
+anchor-link" id=3D"CertificationBadgeDetails-GST"></span>Certified for GST =
+(break out GST / PST)</h2>
+<p>Preresiquite - Certified for Sales Tax</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">XXX</td>
+<td class=3D"confluenceTd"><p>XXX</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">XXX</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"CertificationBadgeDetails-BrazilCertifiedforBrazil"><span class=
+=3D"confluence-embedded-file-wrapper confluence-embedded-manual-size"><img =
+class=3D"confluence-embedded-image confluence-thumbnail" width=3D"25" src=
+=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attachmen=
+ts/249794650/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508&amp=
+;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"2=
+49794724" data-linked-resource-version=3D"1" data-linked-resource-type=3D"a=
+ttachment" data-linked-resource-default-alias=3D"badge.jpg" data-base-url=
+=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"image/jp=
+eg" data-linked-resource-container-id=3D"249794650" data-linked-resource-co=
+ntainer-version=3D"46" height=3D"25"></span><span class=3D"confluence-ancho=
+r-link" id=3D"CertificationBadgeDetails-Brazil"></span>Certified for Brazil=
+</h2>
+<p>Preresiquite - Certified for Sales Tax / VAT?</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">XXX</td>
+<td class=3D"confluenceTd"><p>XXX</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">XXX</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"CertificationBadgeDetails-LCCertifiedforLandedCost"><span class=
+=3D"confluence-embedded-file-wrapper confluence-embedded-manual-size"><img =
+class=3D"confluence-embedded-image confluence-thumbnail" width=3D"25" src=
+=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attachmen=
+ts/249794650/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508&amp=
+;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"2=
+49794724" data-linked-resource-version=3D"1" data-linked-resource-type=3D"a=
+ttachment" data-linked-resource-default-alias=3D"badge.jpg" data-base-url=
+=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"image/jp=
+eg" data-linked-resource-container-id=3D"249794650" data-linked-resource-co=
+ntainer-version=3D"46" height=3D"25"></span><span class=3D"confluence-ancho=
+r-link" id=3D"CertificationBadgeDetails-LC"></span>Certified for Landed Cos=
+t</h2>
+<p>Preresiquite - Certified for Sales Tax</p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Comments</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">HTS Code</td>
+<td class=3D"confluenceTd"><p>The harmonized classification code of the pro=
+duct. Verify within app HTS can vary by Country.</p><p>Note: Need a decisio=
+n if the hardline for a certified connector we must have fully qualified HT=
+S code assignment by county OR is it simply recommended and we will solve f=
+or this when we can do the automatic assignment classification?&nbsp;</p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd">Line level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Incoterms</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Terms of sale. Used to determin=
+e buyer obligations. Configured typically by Country however will depend on=
+ the capabilities of the partner App.</p>
+<ul>
+<li>Have a default App setting</li>
+<li>Have country specific configuation</li>
+<li>Optional to control on a transaction level</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">DDP/DAP<br>Document level paramete=
+r&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">ShippingMode</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Shipping method (ocean, air, gr=
+ound)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Document level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Insurance</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Cost of shipping insurance with=
+ appropriate Avalara Goods and Service code.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">To be passed as a line item</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Shipping</td>
+<td colspan=3D"1" class=3D"confluenceTd">Cost of shipping with appropriate =
+Avalara Goods and Service code.</td>
+<td colspan=3D"1" class=3D"confluenceTd">To be passed as a line</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">IsSellerImporterOfRecord</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Related to Incoterms selection =
+by country. If terms is DDP, IsSellerImporterOfRecord flag is true. If term=
+s DAP, flag is false.</p><p>Note: This current assoication my change with t=
+he future VAT / Global changes on roadmap.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Document level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required /Conditional</td>
+<td colspan=3D"1" class=3D"confluenceTd">net_weight</td>
+<td colspan=3D"1" class=3D"confluenceTd">Required if the tariff code requir=
+es it as a specific unit of measure to determine the customs duty rate (som=
+etimes the rate is assessed per the weight)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Line level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required / Conditional</td>
+<td colspan=3D"1" class=3D"confluenceTd">mass_unit</td>
+<td colspan=3D"1" class=3D"confluenceTd">Required if the tariff code requir=
+es it as a specific unit of measure to determine the customs duty rate (som=
+etimes the rate is assessed per the weight)</td>
+<td colspan=3D"1" class=3D"confluenceTd">Line level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Suggested</td>
+<td colspan=3D"1" class=3D"confluenceTd">Pref program indicator (Optional)<=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Only required if the customer k=
+nows that the item qualifies for a preference program.&nbsp;<strong>We curr=
+ently only support preference program NAFTA.</strong>&nbsp;This indicator w=
+ill tell our calculator to use the NAFTA preferred customs duty rate rather=
+ than the standard duty rate in the calculation.</p><p>TBD - Verify if line=
+ level parameter</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Line level parameter</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Express ship method</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>If shipment method selected is =
+an express shipment, set flag true.</p><p>"name": "AvaTax.LandedCost.Expres=
+s",<br>"dataType": "Boolean",<br>"description": "Is Shipping method."</p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd">Document level parameter</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<p><br></p>
+<h2 id=3D"CertificationBadgeDetails-POSCertifiedforPOS"><span class=3D"conf=
+luence-embedded-file-wrapper confluence-embedded-manual-size"><img class=3D=
+"confluence-embedded-image confluence-thumbnail" width=3D"25" src=3D"504bc3=
+2aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attachments/2497946=
+50/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508&amp;api=3Dv2"=
+ data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"249794724" =
+data-linked-resource-version=3D"1" data-linked-resource-type=3D"attachment"=
+ data-linked-resource-default-alias=3D"badge.jpg" data-base-url=3D"https://=
+wiki.avalara.com" data-linked-resource-content-type=3D"image/jpeg" data-lin=
+ked-resource-container-id=3D"249794650" data-linked-resource-container-vers=
+ion=3D"46" height=3D"25"></span><span class=3D"confluence-anchor-link" id=
+=3D"CertificationBadgeDetails-POS"></span>Certified for POS</h2>
+<p>Preresiquite - Certified for Sales Tax</p>
+<h3 id=3D"CertificationBadgeDetails-TaxContentRequest-Disconnected">Tax Con=
+tent Request - Disconnected</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Required/Suggested</th>
+<th class=3D"confluenceTh">Function</th>
+<th class=3D"confluenceTh">Comment</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Send API tax content request with required data =
+elements</td>
+<td class=3D"confluenceTd">
+<ul>
+<li>Company Code</li>
+<li>Document Date</li>
+<li>Tax Codes</li>
+<li>Location Codes</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Capture Tax Content response and t=
+ransform content into application compatible format</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>The transformation requirement =
+mandates making the Tax Content response, in either JSON, CSV or XML format=
+, and convert it into the import-ready format for tax content, including:</=
+p>
+<ul>
+<li>Transform Tax Jurisdiction content to application tax schedule/tax item=
+ format</li>
+<li>Transform Tax Rate content to application tax schedule/tax item format<=
+/li>
+<li>Transform Tax Code content to application product/service taxability fo=
+rmat</li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Required</td>
+<td colspan=3D"1" class=3D"confluenceTd">Load application-compatible tax co=
+ntent into application and distribute to store locations</td>
+<td colspan=3D"1" class=3D"confluenceTd">Suggest leveraging existing applic=
+ation import and distribution functionality when available</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Store AvaTax Location Codes associated with merc=
+hant's brick &amp; mortar sites in application</td>
+<td class=3D"confluenceTd">Location Codes retrieved by integration for use =
+in Tax Content request</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Store AvaTax Tax Codes selected by merchant in a=
+pplication</td>
+<td class=3D"confluenceTd">Tax Codes retrieved by integration for use in Ta=
+x Content request</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Required</td>
+<td class=3D"confluenceTd">Schedule Tax Content Request job</td>
+<td class=3D"confluenceTd">Suggest leveraging existing application scheduli=
+ng functionality when available</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-TransactionUpload-Disconnected">Transac=
+tion Upload - Disconnected</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+2.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Comment</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Capture complete sales transaction and transf=
+orm into AvaTax transaction import format</p></td>
+<td class=3D"confluenceTd"><p>The following link provides comprehensive set=
+ of information concerning AvaTax transaction import - <a class=3D"external=
+-link" href=3D"https://help.avalara.com/000_Avalara_AvaTax/Manage_Transacti=
+ons/Add_or_Import_Transactions" rel=3D"nofollow">https://help.avalara.com/0=
+00_Avalara_AvaTax/Manage_Transactions/Add_or_Import_Transactions</a></p></t=
+d>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Submit transaction import file =
+to AvaTax service for upload</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li><p>Use Avalara Batch Services API</p></li>
+<li><p>Location Code required</p></li>
+<li><p>Lane Code required</p></li>
+<li><p>Provide error handling capability</p></li>
+<li>Batch Import must use Process code 1 (Import without a calculation)</li=
+>
+</ul></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Schedule transaction upload job</p></td>
+<td class=3D"confluenceTd"><p>Suggest leveraging existing application sched=
+uling functionality when available</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-TaxCalculationTests-Disconnected">Tax C=
+alculation Tests - Disconnected</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+2.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Comment</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Calculate tax applying tax threshold</p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>New York apparel =E2=80=93 Tax Code PC040100 - $110 single item thre=
+shold</p></li>
+<li><p>Massachusetts apparel =E2=80=93 Tax Code PC040100 - $175 single item=
+ threshold</p></li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Calculate tax applying tax cap<=
+/p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li><p>Florida $5,000 county surcharge cap =E2=80=93 Tax Code P0000000</p><=
+/li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Calculate tax applying tiered t=
+ax</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul>
+<li><p>Tennessee $1,600/$3,200 tiers =E2=80=93 Tax Code P0000000</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"CertificationBadgeDetails-UseTaxCertifiedforUseTax(core)"><br><sp=
+an class=3D"confluence-embedded-file-wrapper confluence-embedded-manual-siz=
+e"><img class=3D"confluence-embedded-image confluence-thumbnail" width=3D"2=
+5" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/att=
+achments/249794650/badge.jpg?version=3D1&amp;modificationDate=3D14921626225=
+08&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-i=
+d=3D"249794724" data-linked-resource-version=3D"1" data-linked-resource-typ=
+e=3D"attachment" data-linked-resource-default-alias=3D"badge.jpg" data-base=
+-url=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"imag=
+e/jpeg" data-linked-resource-container-id=3D"249794650" data-linked-resourc=
+e-container-version=3D"46" height=3D"25"></span><span class=3D"confluence-a=
+nchor-link" id=3D"CertificationBadgeDetails-UseTax"></span>Certified for Us=
+e Tax (core)</h2>
+<h3 id=3D"CertificationBadgeDetails-Administration/UtilitiesIntegration">Ad=
+ministration/Utilities Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>AvaTax Configuration Window</p></td>
+<td class=3D"confluenceTd"><p>The AvaTax Configuration Dialog Window must a=
+llow the user to specify appropriate configuration/connection information:<=
+/p>
+<ul>
+<li><p>Avalara Credentials</p>
+<ul>
+<li><p>Account Number</p></li>
+<li><p>License Key</p></li>
+</ul></li>
+<li><p>Service URL (free-form or pick-list with the following)</p>
+<ul>
+<li><p>Development</p></li>
+<li><p>Production</p></li>
+</ul></li>
+<li><p>Company Code (one of two options typically)</p>
+<ul>
+<li><p>User-definable</p></li>
+<li><p>Inherited from client application</p></li>
+<li><p>Lookup Code from AvaTax</p></li>
+</ul></li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ideal configuration workflow:</=
+p>
+<ul>
+<li><p>User Enters authentication information</p></li>
+<li><p>User will test connection to validate credentials</p>
+<ul>
+<li><p>As part of this validation, integration will lookup company codes on=
+ users AvaTax account and provide a drop-down selection of available compan=
+y codes.</p></li>
+</ul></li>
+</ul></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>AvaTax Test Connect Button</p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Provide a button for a user to =
+test the connection to the AvaTax service and verify the AvaTax credentials=
+. This is an important element to allow for successful setup and troublesho=
+oting of the AvaTax service.Optional: display license key expiration date u=
+pon successful connection response.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Document Committing Control</p>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;A singular control must e=
+xist in the Configuration Dialog Window to turn on/off committing of docume=
+nts. In order for this connector to be used in conjunction with other integ=
+ration to AvaTax, the user must be able to control which connector is used =
+for committing documents.&nbsp;Typically, this exists as a checkbox or radi=
+o button.From a technical standpoint</p>
+<ul>
+<li><p>suppress any non-getTax calls (i.e. cancelTax, postTax)</p></li>
+<li><p>Ensure that Commit =3D False on all GetTax calls.</p></li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Tax Calculation Service Control=
+</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;A singular control must e=
+xist in the Configuration Dialog WIndow to turn on/off the Avalara Use Tax =
+Calculation service independently of any other Avalara product or service. =
+Typically, this exists as a checkbox or radio button.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>User Implementation Guide`</p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;The user Implementation G=
+uide should contain screenshots and information allowing the end user to co=
+nfigure for Avalara Use Tax including where the company code is entered, wh=
+ere the credentials are entered and where tax codes can be mapped within th=
+e application.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Enable Logging</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;The user must have an opt=
+ion to enable detailed AvaTax transaction logging within the application, i=
+ncluding capture of round-trip processing time. Users should have a means t=
+o download these detailed log files.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Link to Admin Console</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Link to AvaTax Production Admin=
+ Console</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Enable AvaTax UPC</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>&nbsp;When set to true: pass in=
+ UPC code into the Avalara ItemCode on the line level of the requests to ou=
+r service. When UPC is unavailable, default to ItemCode.When set to false: =
+use the default ItemCode mapping.See Product Master Management for more det=
+ails.NOTE: Alternately, UPC can be enabled on the item level. See Product M=
+aster Management</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Merchant/User Exemption</p></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(114,1=
+18,126);">One or the other parameter is required, although Entity/Use code =
+is preferredEntity/Use Code:</span></p>
+<ul>
+<li><p>Assign an Avalara Entity/Use Code to the merchant/user (an Entity/Us=
+e Code defines the reason for the sales tax exemption, Reseller, Manufactur=
+er, Government Entity, Charitable Organization, etc.).</p></li>
+<li><p>Must include our&nbsp;<a class=3D"external-link" href=3D"http://deve=
+loper.avalara.com/avatax/handling-tax-exempt-customers?referrer=3D&amp;last=
+Referrer=3Ddeveloper.avalara.com&amp;sessionId=3D1492438173206" rel=3D"nofo=
+llow">standard list</a>&nbsp;and be user-definable to add additional items.=
+</p></li>
+</ul><p><span style=3D"color: rgb(114,118,126);">Exemption Number:</span></=
+p>
+<ul>
+<li><p>Identify a field to map the exemption certificate number of the merc=
+hant/user of the application to the =E2=80=9CExemptionNo=E2=80=9D field in =
+Avalara.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-Vendormanagement">Vendor management</h3=
+>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Required/Sug=
+gested">Required/Suggested</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Function">Fu=
+nction</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Notes">Notes=
+</h3></th>
+<th colspan=3D"1" class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetail=
+s-Comments">Comments</h3></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Vendor Identifier Mapping</p></td>
+<td class=3D"confluenceTd"><p>Identify the vendor identifier field (typical=
+ly the database key in the vendor master) to map to the =E2=80=9CCustomerCo=
+de=E2=80=9D field in Avalara.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(114,1=
+18,126);">Vendor Level Use Tax Assessment</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">True/False self assessment.Implement appropriate business logic to d=
+etermine when to self assess. Be sure to include the following:</span></p>
+<ul>
+<li><p><span style=3D"color: rgb(0,51,102);">When self assessing, ensure th=
+at transactions are committed to the Avalara Admin Console</span></p></li>
+<li><p><span style=3D"color: rgb(0,51,102);">When not self assessing, do no=
+t commit transaction to the Admin Console</span></p></li>
+</ul><p><span style=3D"color: rgb(0,51,102);">In the case of Global Use Tax=
+ assessment, commit all transactions regardless of the vendor.</span></p></=
+td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-ProductmasterManagement">Product master=
+ Management</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Item Code</p></td>
+<td class=3D"confluenceTd"><p>Identify item/service/charge code (number, ID=
+) to pass to the AvaTax service. If the customer has access to UPC, they sh=
+ould be able to prepend UPC to the code and have it come across in the item=
+ code field. If there is no UPC, it should fall back to SKU.&nbsp;(See UPC =
+requirements below and in the Administration &amp; Utilities Integration se=
+ction)For PurchaseInvoices not associated with a PurchaseOrder, you may not=
+ have access to the ItemCode from the client application. In that case, sim=
+ply use the&nbsp;GL account number/cost center identifier.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Item Description</p></td>
+<td class=3D"confluenceTd"><p>Identify item/service/charge description to p=
+ass to the AvaTax service with a human-readable description or item name.</=
+p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>AvaTax tax code mapping</p></td>
+<td class=3D"confluenceTd"><p>Associate an item or item group to an AvaTax =
+Tax Code to describe the taxability group (e.g. Clothing-Shirts =E2=80=93 B=
+-to-C). This should be assigned at the item category level as well as the i=
+tem level.<a class=3D"external-link" href=3D"http://taxcode.avatax.avalara.=
+com/?referrer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&amp;sessionId=3D1=
+492438173206" rel=3D"nofollow">Search for a specific tax code</a><a class=
+=3D"external-link" href=3D"https://help.avalara.com/@api/deki/files/1675/Av=
+aTax_Pro_Toolkit.zip?referrer=3D&amp;lastReferrer=3Ddeveloper.avalara.com&a=
+mp;sessionId=3D1492438173206" rel=3D"nofollow">Download a list of the stand=
+ard system tax codes</a></p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>UPC</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">See note in Administration/Utilities Integration section.If the user=
+ elects to use AvaTax UPC, Ensure that the appropriate field containing UPC=
+ data is mapped to the ItemCode parameter&nbsp;formatted as: &lt;UPC:&gt;+&=
+lt;UPC Data&gt;. Example: =E2=80=9CUPC:1234567890000=E2=80=9D. by formattin=
+g the value with =E2=80=9CUPC:=E2=80=9D identifier, our engine can pick up =
+the UPC code, and the user can avoid mapping a tax code for that item. If n=
+o UPC data is available still default to the regular ItemCode mapping.</spa=
+n></p>
+<ul>
+<li><p>NOTE:&nbsp; the UPC functionality is a premium upgrade to the Avalar=
+a AvaTax subscription providing taxability decision (taxable vs. non-taxabl=
+e) without requiring an Avalara Tax Code assignment.</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h3 id=3D"CertificationBadgeDetails-Purchasing&amp;PayablesDocumentIntegrat=
+ion">Purchasing &amp; Payables Document Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+2.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Required/Sug=
+gested.1">Required/Suggested</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Function.1">=
+Function</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Notes.1">Not=
+es</h3></th>
+<th colspan=3D"1" class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetail=
+s-Comments.1">Comments</h3></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(114,118,126);">Send=
+ header level data elements for PurchaseOrder and PurchaseInvoice document =
+types:</span></p></td>
+<td class=3D"confluenceTd">
+<ul>
+<li><p>Document number</p></li>
+<li><p>CustomerCode</p></li>
+<li><p>Document date</p></li>
+<li><p>Tax calculation date</p></li>
+<li><p>Document type</p></li>
+<li><p>Destination address</p></li>
+<li><p>Origin address</p></li>
+<li><p>Exemption number</p></li>
+<li><p>Entity/Use code (aka CustomerUsageType)</p></li>
+<li><p>Location Code</p></li>
+</ul><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Send&nbsp;line (detail) level d=
+ata elements&nbsp;for PurchaseOrder and PurchaseInvoice document types:</p>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Note: Exemption number or Entit=
+y Use Code should be passed only if the customer is exempt.</p>
+<ul>
+<li><p>Line number</p></li>
+<li><p>Item code</p></li>
+<li><p>Item description</p></li>
+<li><p>Quantity</p></li>
+<li><p>Amount (extended)</p></li>
+<li><p>Tax Code</p></li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Freight Charges</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Freight Items must be sent&nbsp=
+;to AvaTax as a separate line item with appropriate tax code.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Discounts</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Either send line items with pos=
+t-discounted amounts or utilize the Avalara Discount Fields.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Purchase Orders</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Follow basic Purchase Order wor=
+kflow with required parameters and Address Validation touch points integrat=
+ed. Purchase Orders are used to retrieve a tax estimate.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Purchase Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Follow basic Purchase Invoice w=
+orkflow with required parameters and Address Validation touch points integr=
+ated. The results of purchase Invoice documents will be used to determine i=
+f taxes need to be self-assessed or not. The user must then be presented wi=
+th options to take action based user-specific business needs. See requireme=
+nt below on Self-asses workflow.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Self-Assess workflow: Purchase =
+Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">If vendor-charged tax is identified it is compared to AvaTax calcula=
+ted tax,&nbsp;The user should be able to select one of the following option=
+s:</span></p>
+<ul>
+<li><p>Accept AvaTax calculated Use Tax in total</p></li>
+<li><p>Accept the difference between AvaTax calculated use tax and vendor-c=
+harged tax (only if AvaTax is a larger amount than vendor-charged tax)</p><=
+/li>
+<li><p>Edit the use tax amount to a desired amount, including $0.00</p></li=
+>
+<li><p>Consider user-definable percentage based self-asses logic.</p></li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Committing Invoices for Vendor =
+Liability Assessment: Purchase Invoices</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">Ensure that invoices are committed/posted for reporting appropriatel=
+y after they are finalized.If they are finalizing invoices, need to create =
+addendum to journal entry as noted in he screenshot.</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>CancelTax Call</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>When invoices are deleted/cance=
+lled, this information&nbsp;must be&nbsp;transmitted to AvaTax.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-ServerAudit/Clarity">Server Audit/Clari=
+ty</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+1.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Required/Sug=
+gested.2">Required/Suggested</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Function.2">=
+Function</h3></th>
+<th class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetails-Notes.2">Not=
+es</h3></th>
+<th colspan=3D"1" class=3D"confluenceTh"><h3 id=3D"CertificationBadgeDetail=
+s-Comments.2">Comments</h3></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Pass&nb=
+sp;connector identifier information via the TaxSvc.Profile.Client property<=
+br></span></p></td>
+<td class=3D"confluenceTd"><p><br></p><p>Integrations&nbsp;must include inf=
+ormation about the connector, such as name, version, and company name, as a=
+ signature to each transaction.EXAMPLE: TaxSvc.Profile.Client =3D =E2=80=9C=
+Dynamics AX,9.0,MyApp for AX by ACME INC,1.0=E2=80=9D</p><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Reasonable errors on server-sid=
+e analysis</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>There&nbsp;should be no errors =
+except those that would result from normal (but invalid)&nbsp;user input (e=
+.g. invalid address data). Such errors must be logged/displayed appropriate=
+ly to the application.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Reasonable ratio of GetTax and =
+address validation calls to committed documents</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>In a normal workflow, we expect=
+ to see up to 10 tax calculations per finalized document. In a straight-for=
+ward order entry process, the number of calls should be about three to five=
+.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Demonstrate and document instal=
+lation of software =E2=80=93 Install Shield or equivalent where&nbsp;applic=
+able</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Customers should have an easy a=
+nd trouble free installation of the software.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-LodgingCertifiedforLodging(core)"><span=
+ class=3D"confluence-embedded-file-wrapper confluence-embedded-manual-size"=
+><img class=3D"confluence-embedded-image confluence-thumbnail" width=3D"25"=
+ src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attac=
+hments/249794650/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508=
+&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=
+=3D"249794724" data-linked-resource-version=3D"1" data-linked-resource-type=
+=3D"attachment" data-linked-resource-default-alias=3D"badge.jpg" data-base-=
+url=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"image=
+/jpeg" data-linked-resource-container-id=3D"249794650" data-linked-resource=
+-container-version=3D"46" height=3D"25"></span><span class=3D"confluence-an=
+chor-link" id=3D"CertificationBadgeDetails-Lodging"></span>Certified for Lo=
+dging (core)</h3>
+<h3 id=3D"CertificationBadgeDetails-TBD">TBD</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>XXX</p></td>
+<td class=3D"confluenceTd"><p>XXX</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>XXX</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-CommsCertifiedforComms(core)"><span cla=
+ss=3D"confluence-embedded-file-wrapper confluence-embedded-manual-size"><im=
+g class=3D"confluence-embedded-image confluence-thumbnail" width=3D"25" src=
+=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"/download/attachmen=
+ts/249794650/badge.jpg?version=3D1&amp;modificationDate=3D1492162622508&amp=
+;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"2=
+49794724" data-linked-resource-version=3D"1" data-linked-resource-type=3D"a=
+ttachment" data-linked-resource-default-alias=3D"badge.jpg" data-base-url=
+=3D"https://wiki.avalara.com" data-linked-resource-content-type=3D"image/jp=
+eg" data-linked-resource-container-id=3D"249794650" data-linked-resource-co=
+ntainer-version=3D"46" height=3D"25"></span><span class=3D"confluence-ancho=
+r-link" id=3D"CertificationBadgeDetails-Comms"></span>Certified for Comms (=
+core)</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Use Case</p></th>
+<th class=3D"confluenceTh"><p>Expected Outcome</p></th>
+<th class=3D"confluenceTh"><p>Demonstrate</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Validate ability to asociate materials/products =
+to AFC Transaction Service type pair (T/S pair).</td>
+<td class=3D"confluenceTd">You should be able to run a transaction with val=
+id AFC T/S pair.</td>
+<td class=3D"confluenceTd">How AFC T/S pairs are aligned to material/produc=
+t in source system.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Validate process to determine Juri=
+sdiction(s).</td>
+<td colspan=3D"1" class=3D"confluenceTd">You should be able to obtain corre=
+ct Pcode/FIPS/NPaNxx for the jurisdiction. For example, ability to obtain c=
+orrect Pcode using ZipToPCode API.</td>
+<td colspan=3D"1" class=3D"confluenceTd">Display the correct Pcode for the =
+jurisdiction.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Validate Company specific data in =
+AFC transactional inputs.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>You should have the ability to =
+pass through all types of inputs through with transactions:</p>
+<ul class=3D"normal">
+<li>Service Class: Primary Local or Primary Long Distance.</li>
+<li>Regulated or Unregulated.</li>
+<li>Customer Type: Business, Residential, Industrial, Senior Citizen.</li>
+<li>Business Class: ILEC, CLEC, or Other.</li>
+<li>Facilities Based.</li>
+<li>Franchise.</li>
+<li>Sale Type.</li>
+<li>Company Identifier.</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Display the correct Pcode for the =
+jurisdiction.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Validate execution of base calcula=
+te tax function.</td>
+<td colspan=3D"1" class=3D"confluenceTd">You Should be able to submit basic=
+ transactions with required data values. For example, ability to calculate =
+taxes using CalcTaxesWithPcode API call and get correct tax results.</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul class=3D"normal">
+<li>Display in source system how each of the input values are configured an=
+d passed to the API fields.</li>
+<li>Demonstrate results in source system based upon differrent input parame=
+ters required for a basic transaction.</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Validate Company specific data in =
+AFC transactional inputs.</td>
+<td colspan=3D"1" class=3D"confluenceTd">You should be able to submit basic=
+ transaction with required data values. For example, ability to calculate t=
+axes using CalcTaxesWithPcode API call and get correct tax results.</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<ul class=3D"normal">
+<li>Display in source system how each of the input values are configured an=
+d passed to the API fields.</li>
+<li>Demonstrate results in source system based upon different input paramet=
+ers required for a basic transaction.</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Validate Adjustment handling</p>
+<ul class=3D"normal">
+<li>Ability to use an adjustment call for a normal transaction</li>
+<li>Ability to apply adjustment call for current/previous month transaction=
+s</li>
+</ul></td>
+<td class=3D"confluenceTd">You should be able to submit adjustment transact=
+ions. For example, ability to apply adjustments using CalcAdjWithPcode API =
+call and get correct tax results.</td>
+<td class=3D"confluenceTd">Pre API call setup and display adjustment result=
+s in source system</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Validate Exemption handling</p>
+<ul class=3D"normal">
+<li>Ability to handle specific exemptions</li>
+<li>Ability to handle category exemptions</li>
+<li>Ability to handle level exemptions - optional</li>
+</ul></td>
+<td class=3D"confluenceTd"><p>You should be able to submit transactions wit=
+h exemption information for Level, category, and specific exemption. The re=
+sults should reflect the exempted taxes.</p><p>For example, Ability to subm=
+it Tax exemption[] along with Transaction[] using CalcTaxesWithPcode API ca=
+ll and verify correct tax results.</p></td>
+<td class=3D"confluenceTd">
+<ul class=3D"normal">
+<li>Display Pre API setup and execute transaction without exemption, displa=
+ying results in originating system.</li>
+<li>Display Pre API setup with level exemptions and execute transaction, di=
+splaying results in originating system.</li>
+<li>Display Pre API setup with specify exemptions and execute transaction, =
+displaying results in originating system.</li>
+<li>Display Pre API setup with category exemptions and execute transaction,=
+ displaying results in originating system.</li>
+</ul></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Validate Invoice transaction (Customer Mode):=
+</p>
+<ul class=3D"normal">
+<li>Batch customer mode.</li>
+<li>Transaction Customer Mode.</li>
+</ul></td>
+<td class=3D"confluenceTd">User should be able to submit invoice mode/custo=
+mer mode transactions and received results from API service For example, Ab=
+ility to submit a single transaction to be processed for a customer batch u=
+sing "CalcCustTaxes" API and verify results using "ProcessCustomerbatch" AP=
+I.</td>
+<td class=3D"confluenceTd">
+<ul class=3D"normal">
+<li>Show API setup in Invoice mode and execute transaction, displaying resu=
+lts in source system.</li>
+<li>Show API setup in Batch mode and execute transaction, displaying result=
+s in source system.</li>
+</ul></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Validate Batch Invoice/Customer Mode Adjustme=
+nt handling</p>
+<ul class=3D"normal">
+<li>How to apply adjustment to current batch/previous batch</li>
+<li>Ability to use an adjustment call for batch transaction</li>
+</ul></td>
+<td class=3D"confluenceTd">User should be able to submit invoice mode/custo=
+mer mode adjustment transactions and received results from API service. For=
+ example, Ability to submit a single adjustment transaction to be processed=
+ for a customer batch using "CalcCustAdj" API and verify results using "Pro=
+cessCustomerbatch" API.</td>
+<td class=3D"confluenceTd">
+<ul class=3D"normal">
+<li>Show API setup in Invoice mode and execute adjustment transaction, disp=
+laying results in source system.</li>
+<li>Show API setup in Batch mode and execute adjustment transaction, displa=
+ying results in source system.</li>
+</ul></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Validate ability to pass a single =
+channel line and a multi-channel line.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ability to pass following line =
+transactions together for system to return taxes.</p>
+<ul class=3D"normal">
+<li>Local/PBX Trunk, Local/PBX Extension, Local/PBX outbound channel.</li>
+</ul><p>Ability to pass following Trunk transactions together</p>
+<ul class=3D"normal">
+<li>Local/Centrex/DID Extension, Local/Centrex Trunk, Local/Centrex, outbou=
+nd Channel.</li>
+</ul><p>Ability to pass following channel transactions together</p>
+<ul class=3D"normal">
+<li>Local/High Capacity Trunk Bundle, Local/High Capacity Extension Bundle,=
+Local/High Capacity Outbound Channel Bundle.</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd">Display API set and execute transa=
+ction, showing results in source system.</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Validate ability to treat commo=
+n AFC returned exceptions</p>
+<ul class=3D"normal">
+<li>Invalid Address</li>
+<li>No Jurisdiction found</li>
+</ul></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Ability to distinguish between =
+these exceptions and how to handle these:</p></td>
+<td colspan=3D"1" class=3D"confluenceTd">Display error code</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-CertCaptureCertifiedforDocumentManageme=
+nt(core)"><span class=3D"confluence-embedded-file-wrapper confluence-embedd=
+ed-manual-size"><img class=3D"confluence-embedded-image confluence-thumbnai=
+l" width=3D"25" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-src=3D"=
+/download/attachments/249794650/badge.jpg?version=3D1&amp;modificationDate=
+=3D1492162622508&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-lin=
+ked-resource-id=3D"249794724" data-linked-resource-version=3D"1" data-linke=
+d-resource-type=3D"attachment" data-linked-resource-default-alias=3D"badge.=
+jpg" data-base-url=3D"https://wiki.avalara.com" data-linked-resource-conten=
+t-type=3D"image/jpeg" data-linked-resource-container-id=3D"249794650" data-=
+linked-resource-container-version=3D"46" height=3D"25"></span><span class=
+=3D"confluence-anchor-link" id=3D"CertificationBadgeDetails-CertCapture"></=
+span>Certified for Document Management (core)</h3>
+<h3 id=3D"CertificationBadgeDetails-Administration&amp;UtilitiesIntegration=
+">Administration &amp; Utilities Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Comment</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>CertCapture Configuration - Dialog window</p>=
+</td>
+<td class=3D"confluenceTd"><p>The CertCapture Configuration window must all=
+ow the user to specify the configuration/connection information.</p>
+<ul>
+<li><p>API Username</p></li>
+<li><p>API Password</p></li>
+<li><p>Client ID(s)</p></li>
+</ul><p><a class=3D"external-link" href=3D"http://docs.certcapture6xrest.ap=
+iary.io/#reference/credentials" rel=3D"nofollow">http://docs.certcapture6xr=
+est.apiary.io/#reference/credentials</a><br><a class=3D"external-link" href=
+=3D"http://docs.certcapture6xrest.apiary.io/#reference/clientids" rel=3D"no=
+follow">http://docs.certcapture6xrest.apiary.io/#reference/clientids</a></p=
+></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>CertCapture Test Connect Button=
+</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Test the connection to the Cert=
+Capture service and verifies the CertCapture API credentials. This is an im=
+portant element to allow for successful troubleshooting of the CertCapture =
+service</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>User Implementation Guide</p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>The User Implemntation Guide sh=
+ould contain screenshots and information allowing the end user to conigure =
+CertCapture and information on the functionality of the integration.</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Enable Logging</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Enables detailed CertCapture tr=
+ansaction logging within the application including capture of round-trip pr=
+ocessing time.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Batch Load Customers</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Utility to batch load customer records into CertCapture.</=
+p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Request time out defination</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Define CertCapture request timeout length, CertCapture bes=
+t practices prescribes default setting of 300ms.</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>CertCapture Admin Console Link</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Link to the CertCapture Application Dashboard</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-CustomerRecordIntegration.1">Customer R=
+ecord Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Comment</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Notes</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>Create Customer Record</p></td>
+<td class=3D"confluenceTd"><p>As customer records are created in the ERP, a=
+ function to create a corresponding customer record in the CertCapture appl=
+ication is required.</p><p><a class=3D"external-link" href=3D"http://docs.c=
+ertcapture6xrest.apiary.io/#reference/customer/customer/create-a-customer" =
+rel=3D"nofollow">http://docs.certcapture6xrest.apiary.io/#reference/custome=
+r/customer/create-a-customer</a>&nbsp;</p><p>Required Fields:</p>
+<ul>
+<li><p>Customer Number (unique customer identifier)</p></li>
+<li><p>Customer Name</p></li>
+<li><p>Mailing Address</p></li>
+<li><p>Option for Additional-Ship To Zones on customer record.</p></li>
+<li><p>Email&nbsp;</p></li>
+</ul><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Update Customer Record</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>As customer record are updated =
+in the ERP, an function to update the corresponding customer record in the =
+CertCapture application is required.</p><p><a class=3D"external-link" href=
+=3D"http://docs.certcapture6xrest.apiary.io/#reference/customer/single-cust=
+omer/update-a-customer" rel=3D"nofollow">http://docs.certcapture6xrest.apia=
+ry.io/#reference/customer/single-customer/update-a-customer</a>&nbsp;</p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Retrieve Customer Exemption Sta=
+tus</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Retrieve and display exemption =
+certificate information associated with a customer record.</p><p>The displa=
+yed information must include:</p>
+<ul>
+<li><p>exempt state</p></li>
+<li><p>exempt reason</p></li>
+<li><p>certificate expiration date.</p></li>
+<li><p>If existing AvaTax Integration - Optional</p>
+<ul>
+<li><p>Identify exempt reason on customer record</p></li>
+</ul></li>
+<li><p>No Existing AvaTax Integration - Required</p>
+<ul>
+<li><p>Identify exempt reason on customer record</p></li>
+</ul></li>
+</ul><p><a class=3D"external-link" href=3D"http://docs.certcapture6xrest.ap=
+iary.io/#reference/customer/customer-active-certificates/get-active-certifi=
+cates" rel=3D"nofollow">http://docs.certcapture6xrest.apiary.io/#reference/=
+customer/customer-active-certificates/get-active-certificates</a></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>View Exemption Certificate</p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>View an exemption certificate a=
+ssociated with customer record.</p><p><a class=3D"external-link" href=3D"ht=
+tp://docs.certcapture6xrest.apiary.io/#reference/certificate/preview-a-cert=
+ificate/preview-certificate-image" rel=3D"nofollow">http://docs.certcapture=
+6xrest.apiary.io/#reference/certificate/preview-a-certificate/preview-certi=
+ficate-image</a>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Option to Print or Save Certifi=
+cate</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Print or save certificate image=
+ on the local system.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Request new Certificate</p></td=
+>
+<td colspan=3D"1" class=3D"confluenceTd"><p>As exemption certificates expir=
+e, a function to send the customer a request for a new exemption certificat=
+e is required.</p><p><a class=3D"external-link" href=3D"http://docs.certcap=
+ture6xrest.apiary.io/#reference/requests/requests/list-all-requests" rel=3D=
+"nofollow">http://docs.certcapture6xrest.apiary.io/#reference/requests/requ=
+ests/list-all-requests</a>&nbsp;</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Revoke Existing Certificate</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Optional function to revoke an existing certificate from a=
+ customer record.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-AddressValidationCertifiedforAddressVal=
+idation(core)"><span class=3D"confluence-embedded-file-wrapper confluence-e=
+mbedded-manual-size"><img class=3D"confluence-embedded-image confluence-thu=
+mbnail" width=3D"25" src=3D"504bc32aa87700c9b3af5a75f15de398" data-image-sr=
+c=3D"/download/attachments/249794650/badge.jpg?version=3D1&amp;modification=
+Date=3D1492162622508&amp;api=3Dv2" data-unresolved-comment-count=3D"0" data=
+-linked-resource-id=3D"249794724" data-linked-resource-version=3D"1" data-l=
+inked-resource-type=3D"attachment" data-linked-resource-default-alias=3D"ba=
+dge.jpg" data-base-url=3D"https://wiki.avalara.com" data-linked-resource-co=
+ntent-type=3D"image/jpeg" data-linked-resource-container-id=3D"249794650" d=
+ata-linked-resource-container-version=3D"46" height=3D"25"></span><span cla=
+ss=3D"confluence-anchor-link" id=3D"CertificationBadgeDetails-AddressValida=
+tion"></span>Certified for Address Validation (core)</h3>
+<h3 id=3D"CertificationBadgeDetails-Administration&amp;UtilitiesIntegration=
+.1">Administration &amp; Utilities Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+2.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Address=
+ Validation - Disable address validation option</span></p></td>
+<td class=3D"confluenceTd"><p>The user should be able to&nbsp;disable or en=
+able address validations in the config screen.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Address Validation - Filter Add=
+ress Validation by Country</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>User must be able to choose&nbs=
+p;the countries which will be used for Address Validation.</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Currently only US and Canada su=
+pport Address validation</p></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Address Validation - Return Address Validation results in =
+upper case</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Address Validation - Batch Validation Utility/Process</p><=
+/td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Address Validation on the fly</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Suggested</td>
+<td colspan=3D"1" class=3D"confluenceTd">Capture Address Type</td>
+<td colspan=3D"1" class=3D"confluenceTd">Does address validation capture ad=
+dress type Business/ Home/ ETC.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-AddressValidationTouchpoints">Address V=
+alidation Touchpoints</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 115=
+5.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p>On-demand address validation on customer reco=
+rd entry</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(114,118,126);">Incl=
+ude a button on the customer record to validate the address. This method is=
+ recommended for ERP implementations.</span><a class=3D"external-link" href=
+=3D"http://developer.avalara.com/avatax/address-validation?referrer=3D&amp;=
+lastReferrer=3Ddeveloper.avalara.com&amp;sessionId=3D1492712287751" rel=3D"=
+nofollow">More information</a></p><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Required</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Integrated address validation i=
+n checkout workflow</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Prompt user at address entry to=
+ continue/validate address prior to tax calculation. This method is recomme=
+nded for E-commerce implementations.&nbsp;<a class=3D"external-link" href=
+=3D"http://developer.avalara.com/avatax/address-validation?referrer=3D&amp;=
+lastReferrer=3Ddeveloper.avalara.com&amp;sessionId=3D1492712287751" rel=3D"=
+nofollow">More information</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Need to provide use case on how to proceed with a transaction when addre=
+ss validation fails (New Construction).</p>
+<h3 id=3D"CertificationBadgeDetails-Sales/BillingDocumentIntegration.1">Sal=
+es/Billing Document Integration</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 140=
+4.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(114,118,126);">Send=
+ required header level data elements:</span></p>
+<ul>
+<li><p>Destination address</p></li>
+<li><p>Origin address</p></li>
+</ul></td>
+<td class=3D"confluenceTd"><p><br></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p></td>
+</tr>
+<tr>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Suggested</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>Send optional line (detail) level data elements =E2=80=93 =
+Destination address</p></td>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><p>If items are being shipped to multiple destinations</p></t=
+d>
+<td class=3D"highlight-green confluenceTd" colspan=3D"1" data-highlight-col=
+our=3D"green"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Suggested</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Send optional line (detail) lev=
+el data elements =E2=80=93 Origin address</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>If items are being shipped from=
+ multiple locations</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 id=3D"CertificationBadgeDetails-ServerAuditClarity">Server Audit Clarit=
+y</h3>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 148=
+1.0px;">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>Required/Suggested</p></th>
+<th class=3D"confluenceTh"><p>Function</p></th>
+<th class=3D"confluenceTh"><p>Notes</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>Comments</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Required</p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Pass&nb=
+sp;connector identifier information via the TaxSvc.Profile.Client property<=
+br></span></p></td>
+<td class=3D"confluenceTd"><p><br></p><p>Integrations&nbsp;must include inf=
+ormation about the connector, such as name, version, and company name, as a=
+ signature to each transaction.EXAMPLE: TaxSvc.Profile.Client =3D =E2=80=9C=
+Dynamics AX,9.0,MyApp for AX by ACME INC,1.0=E2=80=9D</p><p><br></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_22153_525957432.1501550709091
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/504bc32aa87700c9b3af5a75f15de398
+
+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
+ERAEREAREQBERAEREB//2Q==
+------=_Part_22153_525957432.1501550709091--
